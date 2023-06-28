@@ -1,0 +1,47 @@
+Epoch 1/20
+2023-06-16 11:46:46.147784: I tensorflow/stream_executor/cuda/cuda_dnn.cc:384] Loaded cuDNN version 8100
+125/125 [==============================] - 60s 418ms/step - loss: 3.4460 - sparse_categorical_accuracy: 0.2992 - val_loss: 13376301122243788800.0000 - val_sparse_categorical_accuracy: 0.4218
+Epoch 2/20
+125/125 [==============================] - 51s 408ms/step - loss: 2.9056 - sparse_categorical_accuracy: 0.4392 - val_loss: 2139977547776.0000 
+- val_sparse_categorical_accuracy: 0.4086
+Epoch 3/20
+125/125 [==============================] - 51s 408ms/step - loss: 2.6244 - sparse_categorical_accuracy: 0.5462 - val_loss: 80446054465536.0000 - val_sparse_categorical_accuracy: 0.5297
+Epoch 4/20
+125/125 [==============================] - 51s 409ms/step - loss: 2.4436 - sparse_categorical_accuracy: 0.5961 - val_loss: 17632180224.0000 - 
+val_sparse_categorical_accuracy: 0.4835
+Epoch 5/20
+125/125 [==============================] - 51s 409ms/step - loss: 2.2214 - sparse_categorical_accuracy: 0.6450 - val_loss: 49210959331328.0000 - val_sparse_categorical_accuracy: 0.6421
+Epoch 6/20
+125/125 [==============================] - 51s 410ms/step - loss: 2.0831 - sparse_categorical_accuracy: 0.6853 - val_loss: 190077955211264.0000 - val_sparse_categorical_accuracy: 0.6927
+Epoch 7/20
+125/125 [==============================] - 51s 410ms/step - loss: 1.9628 - sparse_categorical_accuracy: 0.7176 - val_loss: 3658573.7500 - val_sparse_categorical_accuracy: 0.6575
+Epoch 8/20
+125/125 [==============================] - 51s 411ms/step - loss: 1.8824 - sparse_categorical_accuracy: 0.7484 - val_loss: 3766070167668957118464.0000 - val_sparse_categorical_accuracy: 0.5749
+Epoch 9/20
+125/125 [==============================] - 51s 412ms/step - loss: 1.8455 - sparse_categorical_accuracy: 0.7670 - val_loss: 474572756893049028608.0000 - val_sparse_categorical_accuracy: 0.6938
+Epoch 10/20
+125/125 [==============================] - 51s 412ms/step - loss: 1.7969 - sparse_categorical_accuracy: 0.7810 - val_loss: 219457296024834408448.0000 - val_sparse_categorical_accuracy: 0.6993
+Epoch 11/20
+125/125 [==============================] - 51s 411ms/step - loss: 1.7432 - sparse_categorical_accuracy: 0.7980 - val_loss: 216693750104064.0000 - val_sparse_categorical_accuracy: 0.7797
+Epoch 12/20
+125/125 [==============================] - 52s 412ms/step - loss: 1.7275 - sparse_categorical_accuracy: 0.8033 - val_loss: 36891527099711488.0000 - val_sparse_categorical_accuracy: 0.7555
+Epoch 13/20
+125/125 [==============================] - 51s 412ms/step - loss: 1.6915 - sparse_categorical_accuracy: 0.8113 - val_loss: 450994720.0000 - val_sparse_categorical_accuracy: 0.7852
+Epoch 14/20
+125/125 [==============================] - 51s 412ms/step - loss: 1.6924 - sparse_categorical_accuracy: 0.8143 - val_loss: 9956204491046912.0000 - val_sparse_categorical_accuracy: 0.6982
+Epoch 15/20
+125/125 [==============================] - 51s 411ms/step - loss: 1.6157 - sparse_categorical_accuracy: 0.8306 - val_loss: 35361652736.0000 - 
+val_sparse_categorical_accuracy: 0.8150
+Epoch 16/20
+125/125 [==============================] - 51s 412ms/step - loss: 1.5733 - sparse_categorical_accuracy: 0.8492 - val_loss: 114344553544155136.0000 - val_sparse_categorical_accuracy: 0.8007
+Epoch 17/20
+125/125 [==============================] - 51s 412ms/step - loss: 1.6284 - sparse_categorical_accuracy: 0.8211 - val_loss: 444874293248.0000 - val_sparse_categorical_accuracy: 0.7907
+Epoch 18/20
+125/125 [==============================] - 52s 413ms/step - loss: 1.5707 - sparse_categorical_accuracy: 0.8436 - val_loss: 40673742848.0000 - 
+val_sparse_categorical_accuracy: 0.7985
+Epoch 19/20
+125/125 [==============================] - 51s 411ms/step - loss: 1.5354 - sparse_categorical_accuracy: 0.8552 - val_loss: 7899250163712.0000 
+- val_sparse_categorical_accuracy: 0.8469
+Epoch 20/20
+125/125 [==============================] - 51s 411ms/step - loss: 1.5210 - sparse_categorical_accuracy: 0.8602 - val_loss: 306193137664.0000 - val_sparse_categorical_accuracy: 0.8480
+1/1 [==============================] - 1s 1s/step

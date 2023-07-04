@@ -4,7 +4,6 @@ import trimesh
 import pickle
 import numpy as np
 import tensorflow as tf
-from matplotlib import pyplot as plt
 
 #Definimos el directorio de datos
 DATA_DIR = "modelTrain/modelnet/ModelNet10"

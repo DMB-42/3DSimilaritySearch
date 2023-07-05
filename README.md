@@ -36,4 +36,6 @@ proyecto fue Python (versión 3.10.11).
 
 2. Si no se quiere utilizar un modelo ya entrenado (se pueden encontrar en 'modelTrain/models'), se recomienda ejecutar el script 'modelTrain/main.py' indicando el número de épocas y la semilla para generar número aleatorios (se puede modificar en el archivo 'modelTrain/model.py'). La notación que se ha utilizado para nombrar a los modelos ha sido: 'pointnetExxVyyyy.h5', siendo 'Exx' el número de épocas (por ejemplo, 'E25' para 25 épocas) y 'Vyyyy' la semilla aleatoria para TensorFlow (por ejemplo, 'V1807' para la semilla 1807).
    
-3. Si 
+3. Para ejecutar el módulo 'simSearch' (búsqueda por similitud), ejecutar el script 'simSearch/main.py'. Se pueden usar otros datos de entrenamiento y prueba, simplemente poner los archivos '.npy' en los que se hayan procesado los datos deseados. Al igual que se puede usar otro modelo para crear el extractor de características. Simplemente se cambiaría la ruta a la del modelo deseado.
+
+4. Para el módulo experimental 'simSearch2.0', se pueden añadir otros objetos de entrada. Simplemente se han de añadir a la carpeta 'simSearch2.0/inputs'. Estos objetos de entrada han de estar en formato '.off', principalmente son modelos del dataset ModelNet40 pertenecientes a clases que no conforman ModelNet10.
